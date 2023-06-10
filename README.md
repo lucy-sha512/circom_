@@ -1,2 +1,2 @@
 # circom_
-Learning Circom
+Learning to build ZK
